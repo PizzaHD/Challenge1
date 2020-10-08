@@ -1,0 +1,7 @@
+Interface,Source,Destination,Porttype,Portnumber
+lan,wan,lan,tcp,80
+lan,wan,lan,tcp,22
+lan,wan,lan,tcp,53
+lan,wan,lan,udp,123
+lan,wan,lan,tcp,443
+lan,wan,lan,tcp,3306
